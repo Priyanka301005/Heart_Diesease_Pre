@@ -1,1 +1,1 @@
-# Heart_Diesease_Pre
+Heart Disease Prediction is a machine learning project that predicts whether a person has heart disease or not using health data like age, blood pressure, cholesterol, and heart rate. It helps in early detection and supports doctors in making better decisions. ❤️
